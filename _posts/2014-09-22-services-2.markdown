@@ -6,8 +6,7 @@ title: Education
 description: |
 ---
 
-I am currently a first year graduate student at UC Santa Cruz studying
-statistics.  In December 2017 I graduated from The University of California, Berkeley
+In December 2017 I graduated from The University of California, Berkeley
 with a double major in statistics and applied mathematics.  I completed my
 honors thesis in statistics under [Prof. Rasmus Nielsen](http://www.nielsenlab.org/)
 (The write up of my thesis is on my LinkedIn).
@@ -15,3 +14,5 @@ honors thesis in statistics under [Prof. Rasmus Nielsen](http://www.nielsenlab.o
 I have taken courses in data structures, machine learning, convex optimization,
 linear algebra, numerical analysis, real analysis, and probability theory.
 
+I hope to one day use my education to work on projects that blend mathematics, statistics,
+and computer science.
