@@ -1,17 +1,27 @@
 ---
 layout: default
-img: phones.png
+img: dog.png
 category: Services
-title: Education
+title: Teaching
 description: |
 ---
+I am very fortunate to have been raised by two elementary school teachers,
+both of whom made sure that the importance of education was always emphasized.
+Just like my parents I take great pride and joy in teaching.
 
-I am currently a first year graduate student at UC Santa Cruz studying
-statistics.  In December 2017 I graduated from The University of California, Berkeley
-with a double major in statistics and applied mathematics.  I completed my
-honors thesis in statistics under [Prof. Rasmus Nielsen](http://www.nielsenlab.org/)
-(The write up of my thesis is on my LinkedIn).
+In high school I gave group and individual chess lessons to
+local elementary school children, in undergrad I was a TA for
+[CS 70: Discrete Mathematics and Probability Theory](TA'd https://inst.eecs.berkeley.edu/~cs70/su16/),
+and during the Spring of 2018 I was a substitute teacher for the [Kern High
+School District](https://www.kernhigh.org/). Below are a couple testimonials I
+have recieved about my teaching (from course evaluations).
 
-I have taken courses in data structures, machine learning, convex optimization,
-linear algebra, numerical analysis, real analysis, and probability theory.
+> Thank you for breaking down probability concepts to their basic level for me
+> during HW Parties and your office hours!! Your explanations help me
+> understand the basics so I can build up and understand more complicated
+> concepts! <cite> **Student, UC Berkeley, CS 70** </cite>
 
+> You explain things very well, thanks for being one of the best TAs I've ever
+> had! <cite> **Student, UC Berkeley, CS 70** </cite>
+
+This quarter (Fall 2018) I am a TA for Math 11A: Calculus with Applications.
