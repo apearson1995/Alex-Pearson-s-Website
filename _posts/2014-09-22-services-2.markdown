@@ -2,17 +2,20 @@
 layout: default
 img: phones.png
 category: Services
-title: Education
+title: Past Teaching
 description: |
 ---
+In high school I gave group and individual chess lessons to
+local elementary school children, in undergrad I was a TA for
+[CS 70: Discrete Mathematics and Probability Theory](TA'd https://inst.eecs.berkeley.edu/~cs70/su16/),
+and during the Spring of 2018 I was a substitute teacher for the [Kern High
+School District](https://www.kernhigh.org/). Below are a couple testimonials I
+have received about my teaching (from course evaluations).
 
-In December 2017 I graduated from The University of California, Berkeley
-with a double major in statistics and applied mathematics.  I completed my
-honors thesis in statistics under [Prof. Rasmus Nielsen](http://www.nielsenlab.org/)
-(The write up of my thesis is on my LinkedIn).
+> Thank you for breaking down probability concepts to their basic level for me
+> during HW Parties and your office hours!! Your explanations help me
+> understand the basics so I can build up and understand more complicated
+> concepts! <cite> **Student, UC Berkeley, CS 70** </cite>
 
-I have taken courses in data structures, machine learning, convex optimization,
-linear algebra, numerical analysis, real analysis, and probability theory.
-
-I hope to one day use my education to work on projects that blend mathematics, statistics,
-and computer science.
+> You explain things very well, thanks for being one of the best TAs I've ever
+> had! <cite> **Student, UC Berkeley, CS 70** </cite>

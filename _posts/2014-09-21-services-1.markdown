@@ -11,5 +11,15 @@ Department at UC Santa Cruz.  I enjoy spending time problem solving (usually Mat
 teaching (I am currently a TA for Math 11A:Calculus with Applications), and playing chess
 (although these days I usually only have time for [blitz games](https://www.thefreedictionary.com/blitz+chess)).
 
+In December 2017 I graduated from The University of California, Berkeley
+with a double major in statistics and applied mathematics.  I completed my
+honors thesis in statistics under [Prof. Rasmus Nielsen](http://www.nielsenlab.org/)
+(The write up of my thesis is on my LinkedIn).
+
+I have taken courses in data structures, machine learning, convex optimization,
+linear algebra, numerical analysis, real analysis, and probability theory.  I hope to one day use my education to work on projects that blend mathematics, statistics,
+and computer science.
+
+
 If you have similar interests and want to meet up feel free to email me.  My
 email address is [almpears@ucsc.edu](almpears@ucsc.edu).
