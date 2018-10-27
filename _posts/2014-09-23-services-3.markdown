@@ -5,9 +5,6 @@ category: Services
 title: Teaching
 description: |
 ---
-I am very fortunate to have been raised by two elementary school teachers,
-both of whom made sure that the importance of education was always emphasized.
-Just like my parents, I take great pride and joy in teaching.
 
 In high school I gave group and individual chess lessons to
 local elementary school children, in undergrad I was a TA for
@@ -24,12 +21,32 @@ have received about my teaching (from course evaluations).
 > You explain things very well, thanks for being one of the best TAs I've ever
 > had! <cite> **Student, UC Berkeley, CS 70** </cite>
 
-This quarter (Fall 2018) I am a TA for Math 11A: Calculus with Applications.
+This quarter (Fall 2018) I am a TA for Math 11A: Calculus with Applications.  Below are links to 
 
-To access my discussion worksheets, syllabus, or grade sheet (anonymized by
-student ID number) log into google with your UCSC account and click
-[this
-link](https://drive.google.com/open?id=1lvEmqU1ujKOiRgFSsrhz7Syg8RMaGCzl).
+* [Grade sheet](https://docs.google.com/spreadsheets/d/14rEa-Ov4xu1YO-NeqoojH9qG5t8aOGHwzxfvtrEp6vg/edit?usp=sharing) (anonymized by student ID number)
+* [Discussion Syllabus](https://drive.google.com/file/d/0B-3Kj-Fw3sZnM3ROeFlYeVRYdUxNYW5rN0ZhRTZEMHRnMUlv/view?usp=sharing)
 
-If you are having any problems academic or otherwise feel free to contact me at
+all of my discussion materials for Math 11A (i.e. worksheets, syllabus, anf grade sheet)
+
+* 10/12 Went through the [discussion syllabus](https://drive.google.com/file/d/0B-3Kj-Fw3sZnM3ROeFlYeVRYdUxNYW5rN0ZhRTZEMHRnMUlv/view?usp=sharing) and discussed homework problems
+* 10/19 Went through [this](https://drive.google.com/file/d/0B-3Kj-Fw3sZnOXRnbzBwY1BZdzNIeVYzZENDMUh3NGtrWWJr/view?usp=sharing) discussion worksheet and reviewed	
+	* How to find the domain of a function
+	* Exponential Functions
+	* Geometric Series
+	* Limit of a sequence
+* 10/26 Went through [this](https://drive.google.com/file/d/1kIdu_eCF7RE7NUHtteb05P7j9IGMoQFa/view?usp=sharing) discussion worksheet and reviewed
+	* Squeeze Theorem
+	* Definition of Continuity
+	* Properties of Continuous functions
+	* Intermediate Value Theorem
+	* Definition of a Derivative
+* 11/2 (Coming soon)
+* 11/9 (Discussion converted to office hours due to the midterm)
+* 11/16 (Coming soon)
+* 11/30 (Coming soon)
+* 12/7 (Coming soon)
+
+
+If you are one of my students and are having any problems academic or otherwise feel free to contact me at
 [almpears@ucsc.edu](almpears@ucsc.edu).
+
