@@ -14,7 +14,7 @@ local elementary school children, in undergrad I was a TA for
 [CS 70: Discrete Mathematics and Probability Theory](TA'd https://inst.eecs.berkeley.edu/~cs70/su16/),
 and during the Spring of 2018 I was a substitute teacher for the [Kern High
 School District](https://www.kernhigh.org/). Below are a couple testimonials I
-have recieved about my teaching (from course evaluations).
+have received about my teaching (from course evaluations).
 
 > Thank you for breaking down probability concepts to their basic level for me
 > during HW Parties and your office hours!! Your explanations help me

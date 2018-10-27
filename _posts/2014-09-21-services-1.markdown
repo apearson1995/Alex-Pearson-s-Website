@@ -6,10 +6,10 @@ title: About Me
 description: |
 ---
 My full name is Alexander Manjit Pearson (but I go by Alex for short), and I
-am currently a firt year graduate student in the Applied Mathematics and Statistics
+am currently a first year graduate student in the Applied Mathematics and Statistics
 Department at UC Santa Cruz.  I enjoy spending time problem solving (usually Math, CS, or Stats related),
 teaching (I am currently a TA for Math 11A:Calculus with Applications), and playing chess
 (although these days I usually only have time for [blitz games](https://www.thefreedictionary.com/blitz+chess)).
 
-If you have similiar interests and want to meet up feel free to email me.  My
+If you have similar interests and want to meet up feel free to email me.  My
 email address is [almpears@ucsc.edu](almpears@ucsc.edu).
