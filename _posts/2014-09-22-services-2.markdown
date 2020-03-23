@@ -6,7 +6,7 @@ title: Coursework, Skills, and Projects
 description: |
 ---
 
-
+I am fluent in python and 
 
 
 

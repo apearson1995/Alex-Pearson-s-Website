@@ -6,7 +6,7 @@ title: Teaching Experience
 description: |
 ---
 
-Both of my parents are elementary school teachers, so teaching has always been a big part of my life. In high school I gave group and individual chess lessons to local elementary school children, in undergrad I was a TA for [CS 70: Discrete Mathematics and Probability Theory](https://inst.eecs.berkeley.edu/~cs70/su16/), and during the Spring of 2018 I was a substitute teacher for the [Kern High School District](https://www.kernhigh.org/).  During my time at UC Santa Cruz I have TA'd:
+Both of my parents are elementary school teachers, so teaching has always been a big part of my life. In high school I gave group and individual chess lessons to local elementary school children, in undergrad I was a TA for [CS 70: Discrete Mathematics and Probability Theory](https://inst.eecs.berkeley.edu/~cs70/su16/), and during the Spring of 2018, I was a substitute teacher for the [Kern High School District](https://www.kernhigh.org/).  During my time at UC Santa Cruz I have TA'd:
 
 * [Math 11A: Calculus with Applications](https://catalog.ucsc.edu/en/Current/General-Catalog/Courses/MATH-Mathematics/Lower-Division/MATH-11A)
 * [Stat 5:  Introduction to Statistics](https://courses.soe.ucsc.edu/courses/stat5)
@@ -14,7 +14,7 @@ Both of my parents are elementary school teachers, so teaching has always been a
 * [CSE 184: Data Wrangling and Webscraping](https://courses.soe.ucsc.edu/courses/cse184)
 * [CSE 30: Programming Abstractions in Python](https://courses.soe.ucsc.edu/courses/cse30)
 
-Below are a few testimonials of students from my sections:
+Below are a few testimonials from some of my students:
 
 > He was very organized and clearly cared about our academic success. He would give us worksheets that reviewed key terms and had practice problems. He was always ready for section and had a schedule of how we would use our time. He was great at answering questions and encouraged us to talk to him after if there were more questions. <cite> **Student, UC Santa Cruz Math 11A** </cite>
 > Alex was an amazing TA who went out of his way to make sure we wereunderstanding the course concepts. He was willing to take feedback from us and modify section to best fit our needs. He was the only reason I was able to get through most of this course <cite> **Student, UC Satna Cruz Stat 80A** </cite>
