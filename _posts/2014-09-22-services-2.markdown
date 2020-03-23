@@ -2,11 +2,19 @@
 layout: default
 img: phones.png
 category: Services
-title: Coursework, Skills, and Projects
+title: Coursework and Skills
 description: |
 ---
 
-I am fluent in python and 
+I have taken many technical courses during the past few years.  Below is a list of my selected  organized by subject:
+
+* Statistics: Probability Theory, Game Theory, Classical Inference, Bayesian Inference, Linear Models, Genearlized Linear Models
+
+* Computer Science/Computational Biology: Structure and Interpretation of Computer Programs, Data Structures, Machine Learning, Bioinformatics Algorithms, Mathematical and Computational Methods in Molecular Biology
+
+* Mathematics: Discrete Mathematics, Linear Algebra, Abstract Algebra, Numerical Analysis, Convex Optimization, Real Analysis, Complex Analysis	
+
+Because of my coursework, I am fluent in python and R, and have a lot of experience with UNIX, Latex, and Markdown.  I also have some experience in HTML, Java, SQL, Matlab, and Mathematica.  A more complete description of my skills along with some projects I have completed in the past can be found on my [CV](https://drive.google.com/file/d/1PqNBTQj5GVgY0eHebrMxdPRKgZeTPHuc/view?usp=sharing).
 
 
 
