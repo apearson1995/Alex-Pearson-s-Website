@@ -11,21 +11,26 @@ This quarter (Fall 2018) I am a TA for Math 11A: Calculus with Applications.  Be
 * [Grade sheet](https://docs.google.com/spreadsheets/d/14rEa-Ov4xu1YO-NeqoojH9qG5t8aOGHwzxfvtrEp6vg/edit?usp=sharing) (anonymized by student ID number)
 * [Discussion Syllabus](https://drive.google.com/file/d/0B-3Kj-Fw3sZnM3ROeFlYeVRYdUxNYW5rN0ZhRTZEMHRnMUlv/view?usp=sharing)
 
-all of my discussion materials for Math 11A (i.e. worksheets, syllabus, anf grade sheet)
+all of my discussion materials for Math 11A (i.e. worksheets, syllabus, and grade sheet)
 
-* 10/12 Went through the [discussion syllabus](https://drive.google.com/file/d/0B-3Kj-Fw3sZnM3ROeFlYeVRYdUxNYW5rN0ZhRTZEMHRnMUlv/view?usp=sharing) and discussed homework problems
+* 10/12 Went through the [discussion syllabus](https://drive.google.com/file/d/0B-3Kj-Fw3sZnM3ROeFlYeVRYdUxNYW5rN0ZhRTZEMHRnMUlv/view?usp=sharing) and [this](https://drive.google.com/file/d/10ALZGvYKGUG7R3Wp7woRtQ_mbb-fLU7u/view?usp=sharing) worksheet. We also reiviewed
+	* Definition of a Sequence
+	* Definition of a Limit of a Sequence
 * 10/19 Went through [this](https://drive.google.com/file/d/0B-3Kj-Fw3sZnOXRnbzBwY1BZdzNIeVYzZENDMUh3NGtrWWJr/view?usp=sharing) discussion worksheet and reviewed	
-	* How to find the domain of a function
+	* Domain of a Function
 	* Exponential Functions
 	* Geometric Series
-	* Limit of a sequence
+	* Limit of a Sequence
 * 10/26 Went through [this](https://drive.google.com/file/d/1kIdu_eCF7RE7NUHtteb05P7j9IGMoQFa/view?usp=sharing) discussion worksheet and reviewed
 	* Squeeze Theorem
 	* Definition of Continuity
-	* Properties of Continuous functions
+	* Properties of Continuous Functions
 	* Intermediate Value Theorem
 	* Definition of a Derivative
-* 11/2 (Coming soon)
+* 11/2 Went through [this](https://drive.google.com/file/d/1bYBUwN0oBn5N8mEijqf4EZ7Q_N-jFCNg/view?usp=sharing) discussion worksheet and reviewed
+	* Product Rule
+	* Quotient Rule
+	* Trigonometric Identities 
 * 11/9 (Discussion converted to office hours due to the midterm)
 * 11/16 (Coming soon)
 * 11/30 (Coming soon)
