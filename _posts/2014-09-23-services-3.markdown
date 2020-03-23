@@ -2,41 +2,33 @@
 layout: default
 img: dog.png
 category: Services
-title: Current Teaching
+title: Skills, Coursework, and Experience
 description: |
 ---
+I have taken courses in
 
-This quarter (Fall 2018) I am a TA for Math 11A: Calculus with Applications.  Below are links to 
+* Statistics
+	- Probability Theory
+	- Game Theory
+	- Bayesian Statistics
+	- Classical Statistics
+	- Linear Models
+	- Genearlized Linear Models
+	
+* Computational Biology and Computer Science
+	- Data Structures
+	- Machine Learning
+	- Bioinformatics Algorithms
+	- Computational Methods in Molecular Biology
 
-* [Grade sheet](https://docs.google.com/spreadsheets/d/14rEa-Ov4xu1YO-NeqoojH9qG5t8aOGHwzxfvtrEp6vg/edit?usp=sharing) (anonymized by student ID number)
-* [Discussion Syllabus](https://drive.google.com/file/d/0B-3Kj-Fw3sZnM3ROeFlYeVRYdUxNYW5rN0ZhRTZEMHRnMUlv/view?usp=sharing)
-
-all of my discussion materials for Math 11A (i.e. worksheets, syllabus, and grade sheet)
-
-* 10/12 Went through the [discussion syllabus](https://drive.google.com/file/d/0B-3Kj-Fw3sZnM3ROeFlYeVRYdUxNYW5rN0ZhRTZEMHRnMUlv/view?usp=sharing) and [this](https://drive.google.com/file/d/10ALZGvYKGUG7R3Wp7woRtQ_mbb-fLU7u/view?usp=sharing) worksheet. We also reiviewed
-	* Definition of a Sequence
-	* Definition of a Limit of a Sequence
-* 10/19 Went through [this](https://drive.google.com/file/d/0B-3Kj-Fw3sZnOXRnbzBwY1BZdzNIeVYzZENDMUh3NGtrWWJr/view?usp=sharing) discussion worksheet and reviewed	
-	* Domain of a Function
-	* Exponential Functions
-	* Geometric Series
-	* Limit of a Sequence
-* 10/26 Went through [this](https://drive.google.com/file/d/1kIdu_eCF7RE7NUHtteb05P7j9IGMoQFa/view?usp=sharing) discussion worksheet and reviewed
-	* Squeeze Theorem
-	* Definition of Continuity
-	* Properties of Continuous Functions
-	* Intermediate Value Theorem
-	* Definition of a Derivative
-* 11/2 Went through [this](https://drive.google.com/file/d/1bYBUwN0oBn5N8mEijqf4EZ7Q_N-jFCNg/view?usp=sharing) discussion worksheet and reviewed
-	* Product Rule
-	* Quotient Rule
-	* Trigonometric Identities 
-* 11/9 (Discussion converted to office hours due to the midterm)
-* 11/16 (Coming soon)
-* 11/30 (Coming soon)
-* 12/7 (Coming soon)
+*  Mathematics
+	- Discrete Mathematics
+	- Linear Algebra
+	- Numerical Analysis
+	- Convex Optimization
+	- Real Analysis
+	- Complex Analysis
+	- Abstract Algebra
 
 
-If you are one of my students and are having any problems academic or otherwise feel free to contact me at
-[almpears@ucsc.edu](almpears@ucsc.edu).
 

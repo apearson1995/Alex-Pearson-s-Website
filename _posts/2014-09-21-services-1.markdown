@@ -5,21 +5,8 @@ category: Services
 title: About Me
 description: |
 ---
-My full name is Alexander Manjit Pearson (but I go by Alex for short), and I
-am currently a first year graduate student in the Applied Mathematics and Statistics
-Department at UC Santa Cruz.  I enjoy spending time problem solving (usually Math, CS, or Stats related),
-teaching (I am currently a TA for Math 11A:Calculus with Applications), and playing chess
-(although these days I usually only have time for [blitz games](https://www.thefreedictionary.com/blitz+chess)).
+My full name is Alexander Manjit Pearson (but I go by Alex for short), and I am currently a second year MS student in the Statistical Sciences Department at UC Santa Cruz, expecting to graduate in June.  I enjoy spending time problem solving (usually Math, CS, or Stats related), teaching (I am currently a TA for Stat 5: Introduction to Statistics), and playing chess (although these days I usually only have time for [blitz games](https://www.thefreedictionary.com/blitz+chess)).
 
-In December 2017 I graduated from The University of California, Berkeley
-with a double major in statistics and applied mathematics.  I completed my
-honors thesis in statistics under [Prof. Rasmus Nielsen](http://www.nielsenlab.org/)
-(The write up of my thesis is on my LinkedIn).
+In December 2017 I graduated from The University of California, Berkeley with a BA in Applied Mathematics and a BA with honors in Statistics.  I hope to one day use my education to work on projects that blend biology, statistics, and computer science.  I am currently working with [Prof. Josh Stuart](https://jstuart.soe.ucsc.edu/) and the [Center for Cancer Genomics](https://www.cancer.gov/about-nci/organization/ccg)' Tumor Molecular Pathology Analysis Working Group to classify tumor subtypes. 
 
-I have taken courses in data structures, machine learning, convex optimization,
-linear algebra, numerical analysis, real analysis, and probability theory.  I hope to one day use my education to work on projects that blend mathematics, statistics,
-and computer science.
-
-
-If you have similar interests and want to meet up feel free to email me.  My
-email address is [almpears@ucsc.edu](almpears@ucsc.edu).
+If you have similar interests and want to get in touch feel free to email me.  My email address is [almpears@ucsc.edu](almpears@ucsc.edu).
