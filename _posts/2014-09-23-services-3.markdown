@@ -6,7 +6,7 @@ title: Teaching Experience
 description: |
 ---
 
-Both of my parents are elementary school teachers, so teaching has always been an integral part of my life.  During high school I gave group and individual chess lessons to local elementary school children,  during my bachelor's degree I was a TA for [CS 70: Discrete Mathematics and Probability Theory](https://inst.eecs.berkeley.edu/~cs70/su16/), and during the Spring of 2018, I was a substitute teacher for the [Kern High School District](https://www.kernhigh.org/).  During my time at UC Santa Cruz I have TA'd:
+Both of my parents are elementary school teachers, so teaching has always been an integral part of my life.  During high school I gave group and individual chess lessons to local elementary school children, during my bachelor's degree I was a TA for [CS 70: Discrete Mathematics and Probability Theory](https://inst.eecs.berkeley.edu/~cs70/su16/), and during the Spring of 2018, I was a substitute teacher for the [Kern High School District](https://www.kernhigh.org/).  During my time at UC Santa Cruz I have TA'd:
 
 * [Math 11A: Calculus with Applications](https://catalog.ucsc.edu/en/Current/General-Catalog/Courses/MATH-Mathematics/Lower-Division/MATH-11A)
 * [Stat 5:  Introduction to Statistics](https://courses.soe.ucsc.edu/courses/stat5)
