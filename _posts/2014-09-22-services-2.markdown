@@ -6,15 +6,15 @@ title: Coursework and Skills
 description: |
 ---
 
-I have taken many technical courses during the past few years.  Below is a list of my selected  organized by subject:
+I have taken many technical courses during the last few years.  Below is a list of some of my favorite courses by subject:
 
-* Statistics: Probability Theory, Game Theory, Classical Inference, Bayesian Inference, Linear Models, Genearlized Linear Models
+* Statistics: Probability Theory, Game Theory, Classical Inference, Bayesian Inference, Linear Models, Generlized Linear Models
 
-* Computer Science/Computational Biology: Structure and Interpretation of Computer Programs, Data Structures, Machine Learning, Bioinformatics Algorithms, Mathematical and Computational Methods in Molecular Biology
+* Computational Biology/Computer Science: Structure and Interpretation of Computer Programs, Data Structures, Machine Learning, Bioinformatics Algorithms, Mathematical and Computational Methods in Molecular Biology, Introduction to Computational Genomics and Systems Biology
 
 * Mathematics: Discrete Mathematics, Linear Algebra, Abstract Algebra, Numerical Analysis, Convex Optimization, Real Analysis, Complex Analysis	
 
-Because of my coursework, I am fluent in python and R, and have a lot of experience with UNIX, Latex, and Markdown.  I also have some experience in HTML, Java, SQL, Matlab, and Mathematica.  A more complete description of my skills along with some projects I have completed in the past can be found on my [CV](https://drive.google.com/file/d/1PqNBTQj5GVgY0eHebrMxdPRKgZeTPHuc/view?usp=sharing).
+I am fluent in python and R, and have a lot of experience with UNIX, Latex, and Markdown.  I also have some experience in HTML, Java, SQL, Matlab, and Mathematica.  A more complete description of my skills along with some projects I have completed in the past can be found on my [CV](https://drive.google.com/file/d/1PqNBTQj5GVgY0eHebrMxdPRKgZeTPHuc/view?usp=sharing).
 
 
 

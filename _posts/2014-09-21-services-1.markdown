@@ -5,9 +5,9 @@ category: Services
 title: About Me
 description: |
 ---
-My full name is Alexander Manjit Pearson (but I go by Alex for short), and I am currently a second year MS student in the Statistical Sciences Department at UC Santa Cruz, expecting to graduate in June.  I enjoy spending time problem solving (usually Math, CS, or Stats related), teaching (I am currently a TA for Stat 5: Introduction to Statistics), and playing chess (although these days I usually only have time for [blitz games](https://www.thefreedictionary.com/blitz+chess)).
+My full name is Alexander Manjit Pearson, but I go by Alex, and I am currently a second year MS student in the Statistical Sciences Department at UC Santa Cruz, expecting to graduate in June.  I enjoy spending time problem solving (usually Math, CS, or Stats related), teaching (I am currently a TA for Stat 5: Introduction to Statistics), and playing chess, although these days I usually only have time for [blitz games](https://www.thefreedictionary.com/blitz+chess).
 
 
-In December 2017 I graduated from The University of California, Berkeley with a BA in Applied Mathematics and a BA with honors in Statistics.  For my honors thesis I analyzed site frequency spectra generated from cancerous somatic mutations, under the direction of my advisor [Prof. Rasmus Nielsen](http://www.nielsenlab.org/).  I am currently working with [Prof. Josh Stuart](https://jstuart.soe.ucsc.edu/) and the [Center for Cancer Genomics](https://www.cancer.gov/about-nci/organization/ccg)' Tumor Molecular Pathology Analysis Working Group to classify tumor subtypes. 
+In December 2017 I graduated from The University of California, Berkeley with a BA in Applied Mathematics and a BA with Honors in Statistics.  For my honors thesis I analyzed site frequency spectra generated from cancerous somatic mutations, under the direction of my advisor [Prof. Rasmus Nielsen](http://www.nielsenlab.org/).  I am currently working with [Prof. Josh Stuart](https://jstuart.soe.ucsc.edu/)  and his student Lucas Seninge from The Genomics Institute, to develop a novel bayesian method for annotating single cell ontologies.
 
-If you have similar interests and want to get in touch feel free to email me.  My email address is [almpears@ucsc.edu](almpears@ucsc.edu).
+If you have similar interests and want to get in touch, contact me at [almpears@ucsc.edu](almpears@ucsc.edu).
