@@ -8,7 +8,7 @@ description: |
 
 I have taken many technical courses during the last few years.  Below is a list of some of my favorite courses by subject:
 
-* Statistics: Probability Theory, Game Theory, Classical Inference, Bayesian Inference, Linear Models, Generlized Linear Models
+* Statistics: Probability Theory, Game Theory, Classical Inference, Bayesian Inference, Linear Models, Generalized Linear Models
 
 * Computational Biology/Computer Science: Structure and Interpretation of Computer Programs, Data Structures, Machine Learning, Bioinformatics Algorithms, Mathematical and Computational Methods in Molecular Biology, Introduction to Computational Genomics and Systems Biology
 
