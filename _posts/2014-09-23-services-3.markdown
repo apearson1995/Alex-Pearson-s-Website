@@ -21,7 +21,7 @@ Below are a few testimonials from some of my students:
 
 > Alexander is a great TA/mentor; he is incredibly enthusiastic and well-versed in statistics and overall data analysis. <cite> **Student, UC Santa Cruz CSE 184** </cite>
 
-In addition to my work as a TA, I co-wrote and co-presented two workshops for Align : Undergraduate Society for Computational Biology, a club that I co-founded in the Spring of 2016.  The [first workshop](https://github.com/apearson1995/Align-Workshop) served as an introduction to phylogentic inference and the [second workshop](https://github.com/guyhwilson/brainz) covered the computational methods for the use of fMRI scans to measure brain connectivity.
+In addition to my work as a TA, I co-wrote and co-presented two workshops for Align : Undergraduate Society for Computational Biology, a club that I co-founded in the Spring of 2016.  The [first workshop](https://github.com/apearson1995/Align-Workshop) served as an introduction to phylogentic inference and the [second workshop](https://github.com/guyhwilson/brainz) served as an introduction to computational methods for measuring brain connectivity with fMRI scans.
 
 
 
